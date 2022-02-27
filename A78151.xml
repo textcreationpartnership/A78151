@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings return. A sermon preached at Winchcomb in Gloucestershire upon the Kings-day, Thursday, May 24. 1660. By Clement Barksdale.</title>
+            <author>Barksdale, Clement, 1609-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78151</idno>
+            <idno type="STC">Wing B795</idno>
+            <idno type="STC">Thomason E1033_5</idno>
+            <idno type="STC">ESTC R208960</idno>
+            <idno type="EEBO-CITATION">99867875</idno>
+            <idno type="PROQUEST">99867875</idno>
+            <idno type="VID">168908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168908)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1033[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings return. A sermon preached at Winchcomb in Gloucestershire upon the Kings-day, Thursday, May 24. 1660. By Clement Barksdale.</title>
+                  <author>Barksdale, Clement, 1609-1687.</author>
+               </titleStmt>
+               <extent>[4], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Royston at the Angel in Ivye-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168908:1" rendition="simple:additions"/>
+            <p>The Kings Return.</p>
+            <p>A SERMON PREACHED At <hi>WINCHCOMB</hi> in <hi>Glouceſterſhire</hi> UPON The KINGS-DAY, Thurſday, <hi>May</hi> 24. 1660.</p>
+            <p>By <hi>CLEMENT BARKSDALE.</hi>
+            </p>
+            <q>
+               <bibl>SENECA.</bibl> 
+               <hi>Rex velit honeſta, nemo non eadem volet.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Royſton</hi> at the Angel in <hi>Ivye-lane,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:168908:2"/>
+            <pb n="1" facs="tcp:168908:2"/>
+            <head>The KING'S Return.</head>
+            <epigraph>
+               <bibl>II. SAM. XV. 25.</bibl>
+               <q>If I ſhall find favour in the eyes of the Lord, he will bring me again.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>EN are generally ſhort-ſighted: they ſee things before their feet, taking but little or obſcure notice of the hand of Heaven, moving and diſpoſing the Affairs and Events of this World. When Adverſity befalls us, we complain of our Enemies, of bad Luck and Fortune: and when we proſper, we applaud our ſelves, our own Wit and Diligence: in both caſes forgetting God for the moſt part, or remembring him in a very cold and heartleſs manner.</p>
+            <p>Hence it is, that ſo many are diſcontented and murmur when things go croſs againſt them; that ſo
+<pb n="2" facs="tcp:168908:3"/> many are proud and unthankful in the time of their ſucceſſes and proſperity. Whereas a right looking up to God in both conditions would keep us ſtill in a right frame and temper; not ſuffer us to ſwell with pride, nor ſink into deſpair.</p>
+            <p>Thus it is in our private Eſtates, and much more it is thus in the Publick, in the great Affairs of King<g ref="char:EOLhyphen"/>doms and Common-wealths. Suppoſe a King, a re<g ref="char:EOLhyphen"/>ligious King, be forced from his Throne, and live as a baniſhed man, perſecuted and almoſt forſaken, how apt are we to look only upon the rebellious, cruel, ambitious party that caſt him out; a party that pretended Godlineſs, but ſhewed no Humani<g ref="char:EOLhyphen"/>ty: and in the mean, not conſider at all the Provi<g ref="char:EOLhyphen"/>dence of God, who thus afflicts the King to try his Patience, to exerciſe and improve his Graces, to pre<g ref="char:EOLhyphen"/>pare him for the greater Glory, and make him the greater bleſſing and more welcome to his people?</p>
+            <p>Again, the King returns, and is brought home unto the Throne of his Fathers: Here alſo we are prone to forget God, and magnifie the Valour, and Prudence, and Loyalty of a moſt Noble Ge<g ref="char:EOLhyphen"/>neral, and an obedient Army; and to aſcribe much to the wiſdom and endeavours of a bleſſed Parlia<g ref="char:EOLhyphen"/>ment; and to commend the forwardneſs of a gallant Nobility and Gentry, and of a Loving People: Whereas God is the prime Author, and Contriver and Doer of all: He begins, and continues, and per<g ref="char:EOLhyphen"/>fects this Glorious Work.</p>
+            <p>If the King ſend gracious Meſſages, He moves the heart of the King: if the Parliament return du<g ref="char:EOLhyphen"/>tiful and grateful Anſwers, He ſtirs up the heart
+<pb n="3" facs="tcp:168908:3"/> of the Parliament: If the General ride on proſpe<g ref="char:EOLhyphen"/>rouſly, He gives the General good ſpeed: If the Na<g ref="char:EOLhyphen"/>vy have a ſafe arrival, He ſends the favourable wind, he fills the ſails, he is the Safe-gard, he the Condu<g ref="char:EOLhyphen"/>ctor, that brings the King, and the Nobles, and the Captains, and all the Royal Retinue to the Haven where they would be.</p>
+            <p>This is <hi>Opus Diei,</hi> this Thankful acknowledgment of Gods wonderful Hand, is the buſineſs of the day: and I could not think upon a fitter Text, then theſe words of King <hi>David. David</hi> is an excellent example to teach us a right behaviour in both Con<g ref="char:EOLhyphen"/>ditions. He is driven from <hi>Jeruſalem</hi> by Conſpiracy and Rebellion, and afterwards returns with victory and honour; and in both, in his being driven out, and in his bringing back, he ſeeth Gods hand, he acknow<g ref="char:EOLhyphen"/>ledgeth Gods providence. <hi>If I ſhall find favour in the eyes of the Lord, he will bring me again.</hi> The ſame Lord, tha thath been pleaſed to chaſtiſe me by the Re<g ref="char:EOLhyphen"/>bellion of my ſeduced people, can bring them to a better underſtanding of all things, and change their hearts, and turn their Affections towards me, and by them reſtore me to <hi>Jeruſalem</hi> again, and to the peaceable poſſeſſion of my Kingdom.</p>
+            <p>The words, without any ſtraining, will fairly yield us theſe two Propoſitions:</p>
+            <p n="1">1. <hi>It is the Lords doing to bring the King again:</hi> however, under God, as we ſhall ſee, there are divers Means and Inſtruments, yet certainly it is the Lords doing.</p>
+            <p n="2">
+               <pb n="4" facs="tcp:168908:4"/> II. <hi>To bring the King again is a ſignal favour of the Lord:</hi> a favour to the King, and a favour to the People alſo.</p>
+            <p>When I ſhall have conſidered theſe two Propoſi<g ref="char:EOLhyphen"/>tions or Obſervations, firſt in relation to King <hi>David,</hi> and then in relation to King <hi>Charles:</hi> where ſome of our lines will run very parallel: I ſhall in concluſion, exhort to Thankfulneſs; not only a verbal, but a re<g ref="char:EOLhyphen"/>al Thankfulneſs, for this ſo great a work of the Lord, ſo great a favour in the return of our moſt gracious Soveraign. This is the Lords doing, and it is marvel<g ref="char:EOLhyphen"/>lous in our eyes.</p>
+            <div n="1" type="part">
+               <head>I. <hi>It is the Lords doing, to bring the King again.</hi>
+               </head>
+               <p>The proof of this Propoſition is, either general, or particular.</p>
+               <p n="1">1. <hi>General,</hi> thus; It is the Lord, that as he made the world, ſo he governs the world. It did not be<g ref="char:EOLhyphen"/>come the Wiſdom of God, when he had by his infi<g ref="char:EOLhyphen"/>nite Power produced and built up this excellent frame of Heaven and Earth, and all things contained there<g ref="char:EOLhyphen"/>in, to forſake the work of his hands, and leave it to the blind guidance of Chance and Fortune. No: as he made the world by his Power, and diſpoſed it in a beautiful order; ſo he rules it by his Wiſdom; and his Providence ſhineth forth unto us in thoſe various ſtrange events we behold, that many times may beget in us admiration, and ſometimes tempt us to infide<g ref="char:EOLhyphen"/>lity. Afflicted Piety, perſecuted Innocence, on the one
+<pb n="5" facs="tcp:168908:4"/> hand; Proſperous Wickedneſs, Triumphant Injuſtice, on the other hand, hath ſometimes ſtagger'd the faith of weak man: but when we behold Innocence re<g ref="char:EOLhyphen"/>lieved, Piety rewarded; when we perceive the pro<g ref="char:EOLhyphen"/>ſperity and ſucceſs of wicked men, and ungodly Uſur<g ref="char:EOLhyphen"/>pers to be on the ſudden over thrown, and themſelves brought to ruine and deſtruction, and their Names and Memories to not and periſh: Then, <hi>abſolvimus Deum,</hi> we acquit God; no longer ſuſpect, but magnifie his Juſtice and Providence: Then we ſay, <hi>Verily there is a God that judgeth the world: God reignetb in the Heaven and in the Earth: The Lord is righteous in all his wayes, and holy in all his works.</hi> From this ge<g ref="char:EOLhyphen"/>neral Providence of God and his care in the Govern<g ref="char:EOLhyphen"/>ment of the world, we cannot but conclude, <hi>It is the Lards doing to bring the King again.</hi>
+               </p>
+               <p n="2">2. The more ſpecial and particular proof is thus: God, as he hath a care of all things, ſo more eſpecially of men; and among all men, moſt of thoſe that are ſtyled Gods, his Vicegerents and Deputies, Kings and Princes upon Earth: and among all Kings, God hath a peculiar care of religious Kings, ſuch as <hi>David</hi> was, ſuch as our Soveraign is. <hi>Great deliverance giveth he unto his King:</hi> not deliverance alone, but great de<g ref="char:EOLhyphen"/>liverance: <hi>And ſheweth mercy to his Anointed, to</hi> Da<g ref="char:EOLhyphen"/>vid, <hi>and to his feed for evermore:</hi> Not to <hi>David</hi> on<g ref="char:EOLhyphen"/>ly, but to his ſeed; not for the preſent only, but for evermore.</p>
+               <p>This is in the end of the 18. <hi>Pſalm,</hi> and in the be<g ref="char:EOLhyphen"/>ginning of the 21. <hi>The King ſhall joy in thy ſtrength, O Lord, and in thy ſalvation how greatly ſhall he re<g ref="char:EOLhyphen"/>joyce!</hi> The ſtrenth of the Lord, and the Salvation of
+<pb n="6" facs="tcp:168908:5"/> the Lord is upon the King, and this is matter of joy and rejoycing to him and to all good people. For it is the uſual Method of Providence to convey bleſſings to the people by the King: As the Ointment poured on <hi>Aarons</hi> head ran down to the skirts of his gar<g ref="char:EOLhyphen"/>ment; ſo a bleſſing on the King, when his Royal Perſon is brought home in ſafety and honour, and eſtabliſht in the Throne, deſcends through the whole body of the Realm, even to the skirts and borders of the Land. And therefore we may conclude the care of God in the preſervation of the King, to be a princi<g ref="char:EOLhyphen"/>pal and peculiar care. <hi>When the King is brought home, it is the Lords doing.</hi>
+               </p>
+               <p>A further proof hereof we may draw from ano<g ref="char:EOLhyphen"/>ther ſpeech of King <hi>David</hi> concerning <hi>Shimei,</hi> ch. 16. where he acknowledges even the curſing of that wick<g ref="char:EOLhyphen"/>ed man to proceed in ſome ſort from the Lord. I ſay <hi>in ſome ſort, i. e.</hi> not with his allowance &amp; approbation, but by his permiſſion; for this was permitted and di<g ref="char:EOLhyphen"/>rected by the Lord for <hi>Davids</hi> humiliation: and that uſe the good King makes of this perſecution by the railing tongue of <hi>Shimei.</hi> Now if this evil was from the Lord, ſurely that good muſt be from the Lord, and that in a more proper ſenſe. As it was the Lord that afflicted <hi>David</hi> in his expulſion, ſo it was the ſame Lord that mercifully comforted <hi>David</hi> by a happy reſtauration.</p>
+               <p>To ſpeak a little of our <hi>David,</hi> by way of parallel: How patiently his moſt Excellent Majeſty hath en<g ref="char:EOLhyphen"/>dured his 12. years baniſhment, how much he hath been better'd by his ſufferings; you perceive by his own words, the true character of his Princely mind.
+<pb n="7" facs="tcp:168908:5"/> Should I ſay that he hath exceeded <hi>David,</hi> as in the meaſure of his ſufferings, ſo in the meaſure of his patience, and in his clemency and eaſineſs to forgive, you would think it perhaps an exceſs of ſpeech. Cer<g ref="char:EOLhyphen"/>tainly, our King, in his gracious Letters and Decla<g ref="char:EOLhyphen"/>ration ſhews himſelf of a moſt Chriſtian temper, and as well deſerves the title <hi>Chriſtianiſsimus,</hi> as <hi>De<g ref="char:EOLhyphen"/>fenſor Fidei.</hi> We have great reaſon to believe, he hath taken his afflictions as from the hand of God, and that it is the ſame God, that doth now by wonderful wayes and means bring him again.</p>
+               <p>For, though God be the prime Cauſe and Author, yet under God, as I ſaid, there be means and inſtru<g ref="char:EOLhyphen"/>ments of the Kings return, whether we look upon King <hi>David,</hi> or King <hi>Charles.</hi>
+               </p>
+               <p>And firſt for King <hi>David:</hi> Let us caſt an eye upon the Hiſtory: He had the ſervice of a faithful and diſ<g ref="char:EOLhyphen"/>creet Counſellor, <hi>Huſhai</hi> the Archite, to defeat the counſels of the politick <hi>Achitophel,</hi> v. 34. He had <hi>Zadoc</hi> and <hi>Abiather</hi> the Prieſts, with their two ſons <hi>Ahimaez</hi> and <hi>Jonathan</hi> to give him ſecret Intelli<g ref="char:EOLhyphen"/>gence from the Enemies quarters, <hi>v.</hi> 35. He had thoſe valiant <hi>Triumviri, Joab, Abiſhai,</hi> and <hi>Ittai,</hi> and many gallant Captains and loyal Souldiers on his ſide, <hi>ch.</hi> 18. He had a reconciled General, <hi>Amaſa,</hi> to bow the hearts of the men of <hi>Judah,</hi> as the heart of one man, ſo that they ſent this word unto the King, <hi>Return Thou and all thy Servants,</hi> ch. 19. 14. He had <hi>Barzillai</hi> to conduct him over <hi>Jordan,</hi> v. 31. Noble <hi>Barzillai,</hi> a very aged man, a very great man, and a very good man, <hi>Who had provided the King of ſuſtenance,</hi> v. 32. Yea, all the people of <hi>Judah</hi> conducted
+<pb n="8" facs="tcp:168908:6"/> the King, and half the people of <hi>Iſrael,</hi> v. 40. Thus for King <hi>David.</hi>
+               </p>
+               <p>Now for King <hi>Charles,</hi> the Means alſo of his re<g ref="char:EOLhyphen"/>turn are worthy to be mentioned, and truly they are never to be mentioned without honour. I ſhall but briefly name them, and but ſome of them neither, ſuch as are moſt apparent to us. We cannot give them praiſe enough, but muſt here fly to our <hi>Juvate po<g ref="char:EOLhyphen"/>ſteri:</hi> Poſterity muſt help us to give them their de<g ref="char:EOLhyphen"/>ſerved Glory.</p>
+               <p>In the firſt place appears his Excellency, the <hi>Lord General;</hi> who, by his declaring for a Free Parlia<g ref="char:EOLhyphen"/>ment, gave great hopes to all loyal Hearts of the Kings Return; conceiving well, that as a force upon the Parliament overthrew the King, ſo the Freedom of Parliament would reſtore the King. What pru<g ref="char:EOLhyphen"/>dent Counſels, what faithful Endeavours, what happy Succeſſes, his Excellency hath uſed and enjoyed all along, muſt be the work of ſome worthy Hiſtorian to relate and record for after Ages to admire.</p>
+               <p>Next, are to be remembred the Honorable <hi>Se<g ref="char:EOLhyphen"/>cluded Members:</hi> who, as they had been ſecluded and forced away from the Houſe for their Votes and en<g ref="char:EOLhyphen"/>deavours to free the late King, the Royal Father of glorious Memory, and to bring him home to the Par<g ref="char:EOLhyphen"/>liament with ſafety and honor: So, when they were lately reſtored to their places, made it their buſineſs, and the buſineſs of the Honorable <hi>Council of State,</hi> to prepare the way for the Return of the Royal Son, his moſt Excellent Majeſty now raigning.</p>
+               <p>We may not here forget the many <hi>Petitions</hi> and <hi>Declarations,</hi> preſented to the General in his March
+<pb n="9" facs="tcp:168908:6"/> towards <hi>London,</hi> by the <hi>Gentry</hi> ſpecially in ſeveral Counties: nor the <hi>Addreſſes</hi> made to the famous City of <hi>London,</hi> nor the great Aids of the City it ſelf; nor the later Declarations of this and other Counties, all tending to the reſtoring of the Liberties both of Church and State, to the healing of our wounds, the making up of our breaches, and to that which might conſummate and crown all the reſt of our deſires, <hi>the return of the King.</hi>
+               </p>
+               <p>To ſend for the King and receive his Majeſtie was an honor reſerved by the Providence of God for this <hi>preſent Parliament,</hi> conſiſting both of Lords and Commons: this moſt Honorable Parliament, having in it the Flower of the <hi>Engliſh</hi> Nobility and Gentry; this bleſſed Parliament, thrice bleſſed; becauſe the means of a threefold bleſſing, a bleſſing on the King, a bleſſing on the State, and a bleſſing on the Church.</p>
+               <p>Amongſt the means of the Kings return, I ſhall in the laſt place mention, that which is not ſurely of the leaſt efficacy, the <hi>Prayers of the Church;</hi> the lately perſecuted Miniſters of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and of the good people adhering to them. Faithful Prayers are of great power with God; and the King himſelf is ſaid to have openly profeſſed, that his buſineſs is moſt advanced by the Prayers of religi<g ref="char:EOLhyphen"/>ous people, whom he eſteemeth as the beſt of his Subjects. Prayers for the King are a Prime part of that Tribute we owe his Majeſty, even by the Law of Chriſt. Prayer is the faireſt wind to bring him ſafe to land: Prayer is the ſureſt Guard to preſerve his Sacred Perſon: Prayer is the firmeſt Pillar to up<g ref="char:EOLhyphen"/>hold
+<pb n="10" facs="tcp:168908:7"/> his Throne. For Prayer procures the fa<g ref="char:EOLhyphen"/>vour of the Lord; and it is the favour of the Lord, by which the King Returns, and Reigns, and Proſpers.</p>
+               <p>So I proceed from the firſt Propoſition; <hi>It is the Lords doing to bring the King again;</hi> To the Second, <hi>To bring the King again is a Signal Favour of the Lord.</hi> If I ſhall find favour in the eyes of the Lord, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>To bring the King again, is a Signal Favour of the Lord.</hi>
+               </head>
+               <p>And here I ſaid, It is a Favour to the King, and a Favour to the People alſo.</p>
+               <p>
+                  <hi>A Favour to the King:</hi> How great a Favour, will be manifeſt, if we conſider, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, from what to what, the King returns.</p>
+               <p n="1">1. King <hi>David</hi> returns from beyond <hi>Jordan</hi> to <hi>Jeruſalem:</hi> from the way of the Wilderneſs, <hi>v.</hi> 23. to the Royal City. King <hi>Charles</hi> returns from beyond the Seas into <hi>Great Britain;</hi> now to be made, by his preſence, again the moſt fortunate Iſland of the whole World. He returns from <hi>Holland,</hi> from <hi>Flanders,</hi> from <hi>Spain,</hi> from <hi>France,</hi> from <hi>Germany:</hi> in which forein Countries he hath long wandred, as it were in a Wilderneſs: to his own dear Country, to his own City, to famous <hi>London,</hi> the Chamber of his Em<g ref="char:EOLhyphen"/>pire, to renowned <hi>Weſtminſter,</hi> the Seat of his Parliament, to <hi>White-Hall</hi> his Royal Palace.</p>
+               <p n="2">2. King <hi>David</hi> returns from Poverty to Riches, from want to plenty, from being fed by the bounty of old <hi>Barzillai</hi> at <hi>Mahanaim,</hi> to feed <hi>Barzillai</hi> if he pleaſe, or at leaſt his ſon <hi>Chimham</hi> at his Table in
+<pb n="11" facs="tcp:168908:7"/> 
+                  <hi>Jeruſalem.</hi> King <hi>Charles</hi> returns from a neceſſitous condition, wherein he diſdained not relief from the bounty of others, to a flouriſhing Eſtate, to di<g ref="char:EOLhyphen"/>ſtribute bounties and graces and benefits to all.</p>
+               <p n="3">3. King <hi>David</hi> returns from his flight; a moſt ſad and dangerous flight. <hi>All the Countrey wept with a loud voyce,</hi> v. 23. &amp; v. 30. David <hi>wept as he went up, and had his head covered, and he went barefoot: and all the people that was with him covered every man his head, and they went up weeping as they went up.</hi> As his flight was ſad, ſo it was dangerous: he eſcaped narrowly from the miſchievous counſel of <hi>Achitophel,</hi> ch. 17. King <hi>Charles</hi> alſo fled, but it was after he had in his own Perſon fought valiantly (even in the judgment of his great Enemy) in that unhappy Bat<g ref="char:EOLhyphen"/>tel at <hi>Worceſter.</hi> 'Twas a cruel Fight, and a ſad Flight; and a difficult, yea miraculous miraculous eſcape. The King took upon him the form of a Servant, and the Lord brought him (by the miniſtery of ſome Noble Perſons) ſafe over the Sea, and now returns him and exalts him after his humiliation<g ref="char:punc">▪</g> He brings him again with Honor and Majeſty. Such preparations, ſuch Attendance, ſuch Solemnities, ſuch Rejoyce<g ref="char:EOLhyphen"/>ing and Acclamations, as are beyond the reach of my underſtanding and the expreſſion of my tongue.</p>
+               <p n="4">4. King <hi>David</hi> returns to the Ark of God and the Tabernacle, to the enjoyment of the Solemn Wor<g ref="char:EOLhyphen"/>ſhip of God. This is that he moſt longed for: <hi>As the Heart panteth after the water brooks, ſo panteth my ſoul after thee, O God: My ſoul thirſteth for God, for the living God: when ſhall I come and appear before</hi>
+                  <pb n="12" facs="tcp:168908:8"/> 
+                  <hi>God!</hi> Pſal. 42. This is that he promiſeth himſelf, The Lord will bring me again, <hi>and ſhew me his Ark and its habitation.</hi> King <hi>Charles</hi> returns from among ſtrangers; that are, I will not ſay, of another Reli<g ref="char:EOLhyphen"/>gion; becauſe the Creed, the Commandments, and the Lords Prayer (the Fundamentals) are common to us; but of another way and manner of Religion; having mixed the Truth with Errours and Superſtiti<g ref="char:EOLhyphen"/>ons: where yet his Majeſty, by the ſingular Grace of God, hath preſerved himſelf pure and untaint<g ref="char:EOLhyphen"/>ed: He returns home, not only to enjoy himſelf, but to give his Kingdoms too the publick exerciſe of true Religion, liberty of ſolemn and regular Devotions, and a free Adminiſtration of the Word and Sacra<g ref="char:EOLhyphen"/>ments. This, this, Beloved, is the Glory of his Ma<g ref="char:EOLhyphen"/>jeſties return: That Religion returns with the King: Not only Peace and Proſperity to the State; but peace and proſperity to the Church returns with the King. And therefore in this chiefly, as in other reſpects, the bringing home of the King is a ſignal Favour of the Lord.</p>
+               <p>A Favour to the King, and <hi>a Favour to the People</hi> alſo: as you will further perceive, if you conſider, that his Majeſty <hi>hath bound up his own Intereſt</hi> (to uſe his own words) <hi>entirely with that of his Sub<g ref="char:EOLhyphen"/>jects, and is as ready to give any thing</hi> (for the Pub<g ref="char:EOLhyphen"/>lick good) <hi>as they are to receive.</hi>
+               </p>
+               <p n="1">1. Is it not a Favour to the People, to have Religi<g ref="char:EOLhyphen"/>on eſtabliſht, and good Order preſcrib'd for the pub<g ref="char:EOLhyphen"/>lick Service of God, and a lawful Miniſtery counte<g ref="char:EOLhyphen"/>nanced and maintained? that the people may be no longer toſſed to and fro with every winde of new
+<pb n="13" facs="tcp:168908:8"/> Doctrine, nor ſeduced by falſe unordained Teachers, nor deprived any longer of the benefit and comfort of the Holy Sacraments for themſelves and their children: This is one benefit, and the chief of all by the Kings return.</p>
+               <p n="2">2. Is it not a favour to the people, to have a firm Peace ſetled in the State upon true Foundations: to have reverence and obedience paid to the Funda<g ref="char:EOLhyphen"/>mental Laws of the Land: to have Juſtice equally and impartially adminiſtred to all men: to have vice ſuppreſſed, and virtue advanced: to have Trade open, and Oppreſſion ſhut: every man to ſit under his own Vine, and enjoy his own as well as the King enjoys his own: This is alſo a Benfit, and a very great one, by the Kings Return.</p>
+               <p n="3">3. Is it not a Favour to have heavy burdens un<g ref="char:EOLhyphen"/>looſed, to have the oppreſſed ſet free and every yoke broken: that the baniſhed be called home, the eject<g ref="char:EOLhyphen"/>ed and ſequeſtred relieved, the ſuffering party eaſed and refreſhed: This is another Benefit of the Kings Return.</p>
+               <p n="4">4. Is it not a Favour, that ſuch as have, in theſe late calamitous times, either wilfully or weakly tranſgreſſed their bounds, and have either invaded the Kings or their fellow-ſubjects rights, ſhould be aſ<g ref="char:EOLhyphen"/>ſured of pardon and reconciliation; and that all un<g ref="char:EOLhyphen"/>charitableneſs and animoſity, all notes of diſcord, ſe<g ref="char:EOLhyphen"/>paration, and difference of parties ſhould be utterly aboliſhed: This is another, and a very conſiderable Benefit of the Kings Return.</p>
+               <p>Wherefore, being there are ſo many Benefits and Bleſſings brought home unto us with our Gracious
+<pb n="14" facs="tcp:168908:9"/> Soveraign, we cannot but acknowledge the favour to be a ſignal Favour both to King and People: a Favour never to be forgotten: a Favour deſerving all Thankfulneſs. That's the <hi>Uſe</hi> we are to make of it, to be truly Thanful. And now, having laid ſufficient grounds and motives for the Duty, in concluſion I muſt briefly exhort you to it.</p>
+            </div>
+            <div type="application">
+               <head>Uſe.</head>
+               <p>When Liberty was proclaimed to the <hi>Graecians,</hi> after long Oppreſſion, the People cryed out to the Herald, to proclaim it again and again, delighting and rejoycing in the very ſound and voyce of <hi>Li<g ref="char:EOLhyphen"/>berty. England</hi> hath been long exerciſed; and al<g ref="char:EOLhyphen"/>moſt exhauſted by great and unſupportable calami<g ref="char:EOLhyphen"/>ties; and how can we chuſe but exult, when we hear of <hi>Liberty?</hi> How can we chuſe but break forth in<g ref="char:EOLhyphen"/>to thanks and praiſes for our freedom and deliver<g ref="char:EOLhyphen"/>ance? How can we chuſe but teſtifie the Thankful<g ref="char:EOLhyphen"/>neſs of our hearts, by glorifying God in our life and converſation? Our Thankfulneſs muſt begin at the heart, be expreſſed by the mouth, be teſtified and compleated by our hands in our daily actions.</p>
+               <p n="1">1. Our hearts muſt be thankful. And truly unleſs our expreſſions come from this root, they will quick<g ref="char:EOLhyphen"/>ly die and come to nothing. O let your hearts be loy<g ref="char:EOLhyphen"/>ally affected towards God the King of Kings, and loyally affected to God's Vicegerent our gracious So<g ref="char:EOLhyphen"/>veraign: Have honorable Thoughts of God and the King: and then out of the abundance of the heart the mouth will be filled.</p>
+               <p n="2">
+                  <pb n="15" facs="tcp:168908:9"/> 2. Our Mouths alſo muſt be thankful. <hi>The Lord open our lips, that our mouth may ſhew forth his praiſe.</hi> Vocal praiſe in the Congregation, in the ſinging of Pſalms, is a comely thing: and you need not be aſhamed of it in your private Houſes: yea, you may ſweeten your buſineſs, and comfortably paſs away your ſolitary times by holy Muſick. Hear the Pſalmiſt: <hi>Praiſe ye the Lord, praiſe the Lord, O my ſoul! While I live, will I praiſe the Lord: I will ſing praiſes to my God, while I have any being,</hi> Pſal. 146. And Pſal. 147. <hi>Praiſe ye the Lord, for it is good to ſing praiſes to our God: for it is pleaſant, and praiſe is comely.</hi> God muſt be praiſed, as in ſinging, ſo in ſpeaking: in our ordinary diſcourſes, we ſhould de<g ref="char:EOLhyphen"/>light to make mention of the loving kindneſs of the Lord; delight to make a thankful remembrance of the peace and plenty, of the liberty and protection, of the deliverances and mercies, which God hath be<g ref="char:EOLhyphen"/>ſtowed upon our Land; delight to ſpeak reverently of the King, who is under God the Miniſter and the Preſerver of theſe mercies for us: Bleſs God, and bleſs the King: Obey God, and obey the King. For</p>
+               <p n="3">3. Our Actions alſo muſt be thankful: and with<g ref="char:EOLhyphen"/>out this real Thankfulneſs by our Obedience, all our verbal and ceremonial expreſſions are of no account. Obedience is that which God requires, Obedience is that which the King deſires of you: Obedience to the Laws of God, and to the Laws of the King. When we do all in our places and ſtations perform our duty; Miniſters their duty, Magiſtrates their duty, and every ſort and rank of people their
+<pb n="16" facs="tcp:168908:10"/> duty, then are we all truly Thankfull.</p>
+               <p n="1">1. The Miniſters that are the Guides of the peo<g ref="char:EOLhyphen"/>ple in ſpiritual things, and by good Doctrine and good example are to lead them in the wayes of God; they muſt teſtifie their thankfulneſs by attending more duly, and giving themſelves more devoutly to the Miniſtery of the Word and Prayer. O that the daily Sacrifice, that hath long ceaſed, might now be renewed in every Pariſh. In this Pariſh (till better proviſion be made) I ſhall be glad to celebrate Morn<g ref="char:EOLhyphen"/>ing Prayer at the ringing of the School-bell. Pray take notice of it, and let one at leaſt out of every Family be ſpared to aſſiſt in the publick Service of God.</p>
+               <p n="2">2. The Magiſtrates, that have power in civil things, and by execution of good Laws of the Land, and by their own good behaviour, are to keep peace and order among the people, they muſt teſtifie their Thankfulneſs by a more faithful diſcharge of their Office. Keep up the reſpect due to Authority: joyn your ſelves together as one man, and this Union will ſtrengthen you to ſuppreſs any diſorders among your Inferiors. Conſult maturely for the common good, determine ſoberly, execute courageouſly; and let every publick Officer be a man of a publick ſpirit, knowing there is ſome ray of Majeſty deſcending on him, and that he is Gods Miniſter and the Kings.</p>
+               <p n="3">3. Let all people of all ranks and qualities teſtifie their Thankfulneſs, old and young, rich and poor. Let the Elder men and Fathers by their gravity and wiſ<g ref="char:EOLhyphen"/>dom be guides and examples to the younger, re<g ref="char:EOLhyphen"/>joycing that they have lived to ſee this bleſſed re<g ref="char:EOLhyphen"/>ſtauration;
+<pb n="17" facs="tcp:168908:10"/> and that they may now aſſure and com<g ref="char:EOLhyphen"/>fort themſelves, that their children ſhall be bred in true Religion, and under lawful Governours. Let the younger teſtifie their thankfulneſs by their ſober<g ref="char:EOLhyphen"/>mindedneſs and modeſty, and readineſs to follow the ſteps of their wiſer Fathers, rejoycing that they have happy times before them, and are likely to have a greater ſhare in the fruits of his Majeſties juſt and gracious Government. Let the richer ſort ſhew them<g ref="char:EOLhyphen"/>ſelves really thankful by their bounty and liberality to the poor, and by their other works of piety and charity: and let the poor be thankful too in their way, by their patience and contentedneſs; by their diligence and painfulneſs in ſome honeſt la<g ref="char:EOLhyphen"/>bour.</p>
+               <p>Laſtly, Let every one without exception make it his chief care to ſerve and fear God, and next to God to honour and obey the King: this being the beſt way, to engage God to continue and enlarge his mer<g ref="char:EOLhyphen"/>cies and favours to us; the beſt way, to make ſure of God to be our God for ever, and to make ſure of the King to be our King, ſo long, till it ſhall pleaſe God to remove him to that Kingdom, which alone is bet<g ref="char:EOLhyphen"/>ter then this, the Kingdom of Heaven.</p>
+               <p>In the mean, it is our Happineſs, our Joy, and our Crown, that we have ſuch a King, the Son of ſuch a Father, that thought not his life dear unto him, but laid it down for the Church and People commit<g ref="char:EOLhyphen"/>ted to his care: Such a King, inſtructed by ſuch a Father in the Art to govern juſtly, prudently and mer<g ref="char:EOLhyphen"/>cifully: Such a King, as God hath miraculouſly for us, and delivered from many dangers, and brought
+<pb n="18" facs="tcp:168908:11"/> his Royal Perſon through many Tryals, that he might be more precious, like Gold tryed in the fire, and ap<g ref="char:EOLhyphen"/>pear unto his people with the greater ſplendor: Such a King, as is mindful of theſe his Sufferings, not to revenge them, but to make a good uſe of his Affli<g ref="char:EOLhyphen"/>ctions, and to be better'd by them: To conclude, ſuch a King, in whom all good men do hope to find that Wiſdom, that Juſtice, that Clemency, that Pie<g ref="char:EOLhyphen"/>ty, which will undoubtedly render him the Glory of Kings, and the Joy <hi>of all</hi> his Subjects. Which God of his infinite Mercy grant through Jeſus Chriſt our Lord.</p>
+            </div>
+            <closer>Amen.</closer>
+         </div>
+         <div type="prayer">
+            <pb n="19" facs="tcp:168908:11"/>
+            <head>A Prayer.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg>
+               </hi> Moſt glorious God, the Creator and Governour of all the world, we ac<g ref="char:EOLhyphen"/>knowledge thine infinite mercy to this lately diſtracted and diſtreſſed Nati<g ref="char:EOLhyphen"/>on. It is thy hand, thy power, thy favour, where<g ref="char:EOLhyphen"/>by this happy Change is brought to paſs; Thou haſt inclined the heart of the King to his People, and Thou haſt inclined the heart of the People to their King. We know, O Lord, it is thy doing, and we look upon it with admiration as a wonderful fa<g ref="char:EOLhyphen"/>vour both to the King and People. We beſeech thee, accept our Thanks and Praiſe, which we offer up unto thee with all our hearts and with unfeigned lips. And we beſeech thee alſo to enable us, as we deſire to teſtifie our Thankfulneſs by our Obedience in the whole courſe of our lives: that all the People of the Land, Miniſters and Magiſtrates, young and old, rich and poor, doing their duty in their ſe<g ref="char:EOLhyphen"/>veral places, and glorifying thy Name by a godly
+<pb n="20" facs="tcp:168908:12"/> Converſation, Thou mayſt ſtill delight to dwell amongst us, to do us good, and to continue thy fa<g ref="char:EOLhyphen"/>vour to us from generation to generation. We pray thee multiply thy beſt bleſsings upon our So<g ref="char:EOLhyphen"/>veraign Lord the King, upon the moſt Illuſtrious Prince the Duke of <hi>York,</hi> and upon the reſt of the Royal Progeny; upon the Houſe of Lords and Commons, upon the Lords of his Majeſties Privy Council, upon all the Nobility and Gentry of this Kingdom: Bleſs, we pray thee, the Judges and Magiſtrates, the Biſhops and Miniſters, the Sol<g ref="char:EOLhyphen"/>diers and Scholars, all orders and degrees of men, that all may live in thy fear, in obedience to the King, and in brotherly love and concord. O let not the Sword devour any more, nor the noiſe of War be heard in our Land: Quiet the ſpirits of all parties, take away our carnal animoſities, and vain opinions, that we may all gladly cloſe in a per<g ref="char:EOLhyphen"/>fect reconciliation under our gracious King. As thou haſt made him an example of forgivenneſs and mercy, ſo grant that all his Subjects may ſhew mercy to one another, being tender-hearted and forgiving one another, as God for Chriſt's ſake is ready to forgive us all. Lord perfect thine own work, and make us ſuch as thou wouldſt have
+<pb n="21" facs="tcp:168908:12"/> us, and deal with us not according to our de<g ref="char:EOLhyphen"/>ſerts, but according to thine own infinite Mer<g ref="char:EOLhyphen"/>cies in Jeſus Chriſt: For whom we ever bleſs thee, in whom we crave acceptance with thee, and to whom with Thee, O Father, and thy Ho<g ref="char:EOLhyphen"/>ly Spirit, one Eternal God, be all Honour and Glo<g ref="char:EOLhyphen"/>ry, now and for ever.</p>
+            <closer>Amen.</closer>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
